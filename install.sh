@@ -11,6 +11,7 @@ cp programa.py ..
 cd ..
 rm -rf API
 bash kali.sh
+rm install.sh kali.sh
 chmod +x *
 clear
 echo "Instalado :)"
