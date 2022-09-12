@@ -10,7 +10,6 @@ mv programa.py $HOME
 cd ..
 rm -rf API
 cd $HOME
-rm -rf Termux-Kali
 chmod +x * 
 bash kali.sh
 rm kali.sh
