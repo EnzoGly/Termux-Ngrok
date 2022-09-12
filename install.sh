@@ -14,7 +14,7 @@ bash kali.sh
 chmod +x *
 clear
 echo "Instalado :)"
-echo "execute com ./start-kali.sh"
+echo "execute com ./executar.sh"
 
 
 
